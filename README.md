@@ -8,7 +8,6 @@
 > - Menggunakan compiler https://es6console.com/krudele0/
 
 ```
-
 var s = '';
 var pola = 5;
 
@@ -38,5 +37,4 @@ for (var i=0; i < pola; i++) {
 }
 
 console.log(s);
-
 ```
