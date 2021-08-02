@@ -1,6 +1,8 @@
 # test-tech-dumbways
 
-Soal Nomor 3
+## Soal No. 3
+
+![nomor3](https://user-images.githubusercontent.com/34154595/127832320-631dfcc4-f1c5-46e3-bb85-8ee75816f32d.png)
 
 > - Bahasa yang digunakan adalah Javascript
 > - Menggunakan compiler https://es6console.com/krudele0/
